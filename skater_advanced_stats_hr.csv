@@ -1,4 +1,4 @@
-Rk,Player,Age,Tm,Pos,GP,CF,CA,CF%,CF% rel,FF,FA,FF%,FF% rel,oiSH%,oiSV%,PDO,oZS%,dZS%,TOI/60,TOI(EV),TK,GV,E+/-,SAtt.,Thru%,-9999
+Rk,Player,Age,Tm,Pos,GP,CF,CA,CF per,CF per rel,FF,FA,FF per,FF per rel,oiSH per,oiSV per,PDO,oZS per,dZS per,TOI/60,TOI(EV),TK,GV,E+/-,SAtt.,Thru per,-9999
 1,Rodrigo Abols,30,PHI,C,42,306,398,43.5,-6.3,211,268,44.1,-6.1,9.2,90.4,99.5,43.2,56.8,10:30,9:49,11,14,-1.8,88,48.9,abolsro01
 2,Noel Acciari,34,PIT,C,67,667,737,47.5,-3.1,475,508,48.3,-2.3,13.4,91.7,105.1,16.7,83.3,13:42,11:03,12,22,0.4,165,56.4,acciano01
 3,Andrew Agozzino,35,UTA,LW,2,5,14,26.3,-22.1,5,8,38.5,-12.5,0.0,100.0,100.0,50.0,50.0,6:08,6:08,1,1,-0.2,1,0.0,agozzan01
