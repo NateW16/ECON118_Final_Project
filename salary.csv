@@ -6,10 +6,10 @@ Connor McDavid,102.72,STD,12.500,Peter Chiarelli
 Mitch Marner,83.07,STD,12.000,Brad Treliving
 Mikko Rantanen,73.17,STD,12.000,Jim Nill
 Artemi Panarin,95.08,STD,11.643,Jeff Gorton
-Elias Pettersson,53.75,STD,11.600,Patrik Allvin
+Elias Pettersson (C),53.75,STD,11.600,Patrik Allvin
 Erik Karlsson,132.58,STD,11.500,Doug Wilson
 William Nylander,74.61,STD,11.500,Brad Treliving
-David Pastrnak,81.21,STD,11.250,Don Sweeney
+David Pastrňák,81.21,STD,11.250,Don Sweeney
 Drew Doughty,135.57,STD,11.000,Rob Blake
 Rasmus Dahlin,45.71,STD,11.000,Kevyn Adams
 Evan Bouchard,21.96,STD,10.500,Stan Bowman
@@ -57,10 +57,10 @@ Mikhail Sergachev,50.21,STD,8.500,Julien BriseBois
 Roope Hintz,44.25,STD,8.450,Jim Nill
 Miro Heiskanen,46.63,STD,8.450,Jim Nill
 Wyatt Johnston,11.04,STD,8.400,Jim Nill
-Tim Stutzle,23.23,STD,8.350,Pierre Dorion
+Tim Stützle,23.23,STD,8.350,Pierre Dorion
 Owen Power,18.59,STD,8.350,Kevyn Adams
 Brady Tkachuk,44.72,STD,8.206,Pierre Dorion
-Tomas Hertl,69.72,STD,8.138,Doug Wilson
+Tomáš Hertl,69.72,STD,8.138,Doug Wilson
 Jordan Kyrou,37.38,STD,8.125,Doug Armstrong
 Robert Thomas,38.72,STD,8.125,Doug Armstrong
 Lucas Raymond,18.88,STD,8.075,Steve Yzerman
@@ -78,7 +78,7 @@ Thomas Chabot,48.60,STD,8.000,Pierre Dorion
 Joshua Norris,32.33,STD,7.950,Pierre Dorion
 Nick Suzuki,41.26,STD,7.875,Marc Bergevin
 Kevin Fiala,45.80,STD,7.875,Rob Blake
-Alex Debrincat,46.21,STD,7.875,Steve Yzerman
+Alex DeBrincat,46.21,STD,7.875,Steve Yzerman
 Jesper Bratt,41.13,STD,7.875,Tom Fitzgerald
 Shea Weber,132.83,STD,7.857,David Poile
 Quinn Hughes,40.75,STD,7.850,Jim Benning
@@ -88,14 +88,14 @@ Andrei Svechnikov,43.72,STD,7.750,Don Waddell
 Matthew Knies,10.83,STD,7.750,Brad Treliving
 Sean Couturier,66.98,STD,7.750,Chuck Fletcher
 Elias Lindholm,56.23,STD,7.750,Don Sweeney
-John-Jason Peterka,10.54,STD,7.700,Bill Armstrong
-Juraj Slafkovský,12.80,STD,7.600,Kent Hughes
+JJ Peterka,10.54,STD,7.700,Bill Armstrong
+Juraj Slafkovsky,12.80,STD,7.600,Kent Hughes
 Jared Spurgeon,77.29,STD,7.575,Bill Guerin
 Brock Nelson,59.90,STD,7.500,Chris MacFarland
 Morgan Rielly,68.64,STD,7.500,Kyle Dubas
 Gabriel Vilardi,16.14,STD,7.500,Kevin Cheveldayoff
 K'Andre Miller,17.85,STD,7.500,Chris Drury
-Alexis Lafreniere,17.37,STD,7.450,Chris Drury
+Alexis Lafrenière,17.37,STD,7.450,Chris Drury
 Shea Theodore,48.44,STD,7.425,Kelly McCrimmon
 Seth Jarvis,24.53,STD,7.420,Eric Tulsky
 Noah Hanifin,51.43,STD,7.350,Kelly McCrimmon
@@ -110,11 +110,11 @@ Brandon Montour,38.86,STD,7.143,Ron Francis
 Kyle Connor,52.74,STD,7.143,Kevin Cheveldayoff
 Tage Thompson,28.09,STD,7.143,Kevyn Adams
 Dylan Guenther,10.76,STD,7.143,Bill Armstrong
-Matthew Beniers,16.15,STD,7.143,Ron Francis
+Matty Beniers,16.15,STD,7.143,Ron Francis
 Dylan Cozens,23.93,STD,7.100,Kevyn Adams
 Matt Boldy,26.68,STD,7.000,Bill Guerin
 Mason McTavish,9.83,STD,7.000,Pat Verbeek
-Anze Kopitar,144.03,STD,7.000,Rob Blake
+Anže Kopitar,144.03,STD,7.000,Rob Blake
 Nazem Kadri,67.47,STD,7.000,Brad Treliving
 Anders Lee,66.63,STD,7.000,Lou Lamoriello
 Mikael Granlund,56.66,STD,7.000,Pat Verbeek
@@ -136,8 +136,8 @@ Hampus Lindholm,65.39,STD,6.500,Don Sweeney
 Tom Wilson,54.14,STD,6.500,Brian MacLellan
 Colton Parayko,60.43,STD,6.500,Doug Armstrong
 Brandon Hagel,23.43,STD,6.500,Julien BriseBois
-Martin Necas,21.62,STD,6.500,Eric Tulsky
-Matt Coronato,8.33,STD,6.500,Craig Conroy
+Martin Nečas,21.62,STD,6.500,Eric Tulsky
+Matthew Coronato,8.33,STD,6.500,Craig Conroy
 Jaccob Slavin,47.29,STD,6.396,Eric Tulsky
 Ryan Ellis,60.49,STD,6.250,David Poile
 Mattias Ekholm,52.24,STD,6.250,David Poile
@@ -181,13 +181,13 @@ Phillip Danault,42.39,STD,5.500,Rob Blake
 Jonathan Marchessault,48.69,STD,5.500,Barry Trotz
 Josh Anderson,42.56,STD,5.500,Marc Bergevin
 Sean Monahan,61.76,STD,5.500,Don Waddell
-Andre Burakovsky,45.46,STD,5.500,Ron Francis
+André Burakovsky,45.46,STD,5.500,Ron Francis
 Tyler Bertuzzi,36.25,STD,5.500,Kyle Davidson
 Brett Pesce,39.55,STD,5.500,Tom Fitzgerald
 Adrian Kempe,30.72,STD,5.500,Rob Blake
 Marcus Pettersson,29.30,STD,5.500,Patrik Allvin
 Jake DeBrusk,30.47,STD,5.500,Patrik Allvin
-Teuvo Teravainen,47.07,STD,5.400,Kyle Davidson
+Teuvo Teräväinen,47.07,STD,5.400,Kyle Davidson
 Oliver Bjorkstrand,36.44,STD,5.400,Jarmo Kekalainen
 Christian Dvorak,34.60,STD,5.400,Daniel Briere
 Kevin Bahl,8.42,STD,5.350,Craig Conroy
@@ -196,7 +196,7 @@ Charlie Coyle,50.18,STD,5.250,Don Sweeney
 Adam Larsson,50.64,STD,5.250,Ron Francis
 Esa Lindell,47.90,STD,5.250,Jim Nill
 Joel Eriksson Ek,33.98,STD,5.250,Bill Guerin
-Erik Cernak,31.08,STD,5.200,Julien BriseBois
+Erik Černák,31.08,STD,5.200,Julien BriseBois
 Cameron York,9.27,STD,5.150,Daniel Briere
 Evander Kane,105.05,STD,5.125,Ken Holland
 Bryan Rust,39.99,STD,5.125,Ron Hextall
@@ -219,7 +219,7 @@ Anton Lundell,14.54,STD,5.000,Bill Zito
 Drake Batherson,24.43,STD,4.975,Pierre Dorion
 Conor Garland,28.11,STD,4.950,Jim Benning
 Blake Coleman,31.89,STD,4.900,Brad Treliving
-Dylan Demelo,27.47,STD,4.900,Kevin Cheveldayoff
+Dylan DeMelo,27.47,STD,4.900,Kevin Cheveldayoff
 Mike Matheson,41.74,STD,4.875,Dale Tallon
 Jesperi Kotkaniemi,26.64,STD,4.820,Don Waddell
 Ilya Mikheyev,23.19,STD,4.750,Patrik Allvin
@@ -243,7 +243,7 @@ Nick Foligno,67.26,STD,4.500,Kyle Davidson
 Mikael Backlund,58.06,STD,4.500,Craig Conroy
 Matt Duchene,107.64,STD,4.500,Jim Nill
 Ryan O'Reilly,91.12,STD,4.500,Barry Trotz
-Christopher Tanev,58.02,STD,4.500,Brad Treliving
+Chris Tanev,58.02,STD,4.500,Brad Treliving
 Josh Manson,37.88,STD,4.500,Chris MacFarland
 Cody Ceci,35.81,STD,4.500,Ken Holland
 Ryan Graves,28.46,STD,4.500,Kyle Dubas
@@ -266,7 +266,7 @@ Jason Dickinson,22.99,STD,4.250,Kyle Davidson
 Trevor Moore,20.93,STD,4.200,Rob Blake
 Dmitri Voronkov,5.76,STD,4.175,Don Waddell
 Pius Suter,14.85,STD,4.125,Doug Armstrong
-Mikey Anderson,14.83,STD,4.125,Rob Blake
+Michael Anderson,14.83,STD,4.125,Rob Blake
 Mats Zuccarello,63.38,STD,4.125,Bill Guerin
 Dante Fabbro,16.80,STD,4.125,Don Waddell
 Brandon Carlo,29.35,STD,4.100,Don Sweeney
@@ -292,7 +292,7 @@ Johnathan Kovacevic,7.58,STD,4.000,Tom Fitzgerald
 Noah Cates,11.30,STD,4.000,Daniel Briere
 Thomas Harley,9.34,STD,4.000,Jim Nill
 Dawson Mercer,10.41,STD,4.000,Tom Fitzgerald
-Will Cuylle,4.79,STD,3.900,Chris Drury
+William Cuylle,4.79,STD,3.900,Chris Drury
 Kirill Marchenko,9.13,STD,3.850,Don Waddell
 Joel Edmundson,33.40,STD,3.850,Rob Blake
 Trent Frederic,11.49,STD,3.850,Stan Bowman
@@ -306,12 +306,12 @@ Alexandre Carrier,13.53,STD,3.750,Barry Trotz
 Alex Iafallo,26.68,STD,3.667,Kevin Cheveldayoff
 Brayden McNabb,30.02,STD,3.650,Kelly McCrimmon
 Barclay Goodrow,24.36,STD,3.642,Chris Drury
-Simon Holmstrom,5.80,STD,3.625,Mathieu Darche
+Simon Holmström,5.80,STD,3.625,Mathieu Darche
 Sean Walker,20.79,STD,3.600,Eric Tulsky
 Andrew Mangiapane,28.39,STD,3.600,Stan Bowman
 Oliver Ekman-Larsson,106.65,STD,3.500,Brad Treliving
 Scott Mayfield,21.76,STD,3.500,Lou Lamoriello
-Olli Maatta,38.91,STD,3.500,Bill Armstrong
+Olli Määttä,38.91,STD,3.500,Bill Armstrong
 Anthony Duclair,23.50,STD,3.500,Lou Lamoriello
 Nate Schmidt,49.03,STD,3.500,Bill Armstrong
 Warren Foegele,20.11,STD,3.500,Rob Blake
@@ -325,7 +325,7 @@ Jake Walman,13.30,STD,3.400,Steve Yzerman
 Jonas Siegenthaler,16.29,STD,3.400,Tom Fitzgerald
 Aliaksei Protas,9.57,STD,3.375,Brian MacLellan
 Jack Quinn,6.01,STD,3.375,Kevyn Adams
-Janis Jérôme Moser,9.11,STD,3.375,Julien BriseBois
+J.J. Moser,9.11,STD,3.375,Julien BriseBois
 Kirby Dach,16.15,STD,3.363,Kent Hughes
 Connor Clifton,13.89,STD,3.333,Kevyn Adams
 Mario Ferraro,15.76,STD,3.250,Mike Grier
@@ -376,7 +376,7 @@ Andrew Peeke,10.67,STD,2.750,Jarmo Kekalainen
 Nicklaus Perbix,5.80,STD,2.750,Barry Trotz
 Zach Whitecloud,14.15,STD,2.750,Kelly McCrimmon
 Nick Seeler,11.23,STD,2.700,Daniel Briere
-Martin Fehervary,9.63,STD,2.675,Brian MacLellan
+Martin Fehérváry,9.63,STD,2.675,Brian MacLellan
 Barrett Hayton,10.77,STD,2.650,Bill Armstrong
 Michael Amadio,10.79,STD,2.600,Steve Staios
 Casey Cizikas,33.62,STD,2.500,Lou Lamoriello
@@ -400,9 +400,9 @@ Danton Heinen,15.53,STD,2.250,Patrik Allvin
 Conor Timmins,6.69,STD,2.200,Kevyn Adams
 Braden Schneider,6.73,STD,2.200,Chris Drury
 Connor McMichael,6.10,STD,2.100,Brian MacLellan
-Yegor Chinakhov,6.65,STD,2.100,Don Waddell
+Egor Chinakhov,6.65,STD,2.100,Don Waddell
 Calle Jarnkrok,23.27,STD,2.100,Kyle Dubas
-Frederick Gaudreau,12.85,STD,2.100,Bill Guerin
+Frédérick Gaudreau,12.85,STD,2.100,Bill Guerin
 Sam Steel,7.93,STD,2.100,Jim Nill
 Ryker Evans,3.54,STD,2.050,Jason Botterill
 Nico Sturm,9.53,STD,2.000,Bill Guerin
@@ -432,7 +432,7 @@ Nicholas Robertson,4.52,STD,1.825,Brad Treliving
 Justin Danforth,5.59,STD,1.800,Kevyn Adams
 Kent Johnson,5.21,STD,1.800,Don Waddell
 Teddy Blueger,13.03,STD,1.800,Patrik Allvin
-Carl Grundstrom,9.00,STD,1.800,Mike Grier
+Carl Grundström,9.00,STD,1.800,Mike Grier
 Nicolas Deslauriers,15.54,STD,1.750,Chuck Fletcher
 Nick Bjugstad,35.04,STD,1.750,Doug Armstrong
 Tony DeAngelo,28.34,STD,1.750,Mathieu Darche
@@ -489,7 +489,7 @@ Justin Barron,3.58,STD,1.150,Kent Hughes
 Dmitry Kulikov,43.01,STD,1.150,Bill Zito
 Kurtis MacDermid,9.37,STD,1.150,Tom Fitzgerald
 Albert Johansson,1.87,STD,1.125,Steve Yzerman
-Elmer Soderblom,1.84,STD,1.125,Steve Yzerman
+Elmer Söderblom,1.84,STD,1.125,Steve Yzerman
 Connor Dewar,4.28,STD,1.100,Kyle Dubas
 Drew Helleson,1.89,STD,1.100,Pat Verbeek
 Emil Heineman,2.09,STD,1.100,Mathieu Darche
@@ -510,7 +510,7 @@ Max Jones,7.67,STD,1.000,Don Sweeney
 Alexandre Texier,9.98,STD,1.000,Kent Hughes
 Martin Pospisil,2.67,STD,1.000,Craig Conroy
 Cole Koepke,2.12,STD,1.000,Kevin Cheveldayoff
-Yegor Zamula,5.47,STD,1.000,Don Waddell
+Egor Zamula,5.47,STD,1.000,Don Waddell
 Vasily Podkolzin,3.73,STD,1.000,Patrik Allvin
 Cole Smith,3.59,STD,1.000,Barry Trotz
 Shakir Mukhamadullin,1.53,STD,1.000,Mike Grier
@@ -555,7 +555,7 @@ Dmitri Simashev,0.39,ELC,0.950,Bill Armstrong
 Matvei Michkov,1.90,ELC,0.950,Daniel Briere
 Ryan Leonard,1.03,ELC,0.950,Chris Patrick
 Tom Willander,0.87,ELC,0.950,Patrik Allvin
-Daniil But,0.41,ELC,0.950,Bill Armstrong
+Danil But,0.41,ELC,0.950,Bill Armstrong
 Matthew Wood,0.92,ELC,0.950,Barry Trotz
 Aiden Fink,0.02,ELC,0.950,Barry Trotz
 Haydn Fleury,9.01,STD,0.950,Kevin Cheveldayoff
@@ -578,7 +578,7 @@ Arseny Gritsyuk,0.93,ELC,0.925,Tom Fitzgerald
 Marat Khusnutdinov,2.04,STD,0.925,Don Sweeney
 Ian Moore,0.87,ELC,0.925,Pat Verbeek
 Alexander Nikishin,0.93,ELC,0.925,Eric Tulsky
-Fyodor Svechkov,1.42,ELC,0.925,David Poile
+Fedor Svechkov,1.42,ELC,0.925,David Poile
 Josh Doan,1.58,ELC,0.925,Bill Armstrong
 Oliver Kapanen,1.14,ELC,0.925,Kent Hughes
 Ryan Ufko,0.22,ELC,0.925,Barry Trotz
@@ -604,10 +604,10 @@ Noah Juulsen,4.98,STD,0.900,Daniel Briere
 Caleb Jones,6.30,STD,0.900,Kyle Dubas
 Mathieu Joseph,15.96,STD,0.900,Ken Holland
 Ryan Shea,2.45,STD,0.900,Kyle Dubas
-Adam Engström,0.26,ELC,0.897,Kent Hughes
+Adam Engstrom,0.26,ELC,0.897,Kent Hughes
 Luca Cagnoni,0.10,ELC,0.895,Mike Grier
 Simon Edvinsson,2.04,ELC,0.894,Steve Yzerman
-Isak Rosén,0.62,ELC,0.894,Kevyn Adams
+Isak Rosen,0.62,ELC,0.894,Kevyn Adams
 Jani Nyman,0.57,ELC,0.892,Ron Francis
 Cale Fleury,3.87,STD,0.890,Jason Botterill
 Conor Geekie,0.72,ELC,0.887,Bill Armstrong
@@ -616,14 +616,14 @@ Denton Mateychuk,1.41,ELC,0.887,Jarmo Kekalainen
 Reid Schaefer,0.46,ELC,0.887,Ken Holland
 Shane Wright,2.16,ELC,0.887,Ron Francis
 Marco Kasper,1.69,ELC,0.887,Steve Yzerman
-Noah Östlund,0.85,ELC,0.887,Kevyn Adams
+Noah Ostlund,0.85,ELC,0.887,Kevyn Adams
 Joakim Kemell,0.29,ELC,0.887,David Poile
-Liam Öhgren,1.11,ELC,0.887,Bill Guerin
+Liam Ohgren,1.11,ELC,0.887,Bill Guerin
 Jiri Kulich,1.75,ELC,0.887,Kevyn Adams
 Brad Lambert,0.45,ELC,0.887,Kevin Cheveldayoff
 Samuel Honzek,1.00,ELC,0.887,Craig Conroy
 David Reinbacher,0.02,ELC,0.887,Kent Hughes
-Dalibor Dvorský,0.88,ELC,0.887,Doug Armstrong
+Dalibor Dvorsky,0.88,ELC,0.887,Doug Armstrong
 Nikita Chibrikov,0.26,ELC,0.876,Kevin Cheveldayoff
 Jacob Bernard-Docker,3.23,STD,0.875,Steve Yzerman
 Logan Mailloux,0.92,ELC,0.875,Kent Hughes
@@ -645,7 +645,7 @@ Tristan Luneau,0.40,ELC,0.865,Pat Verbeek
 Nick Lardis,0.38,ELC,0.865,Kyle Davidson
 Brandt Clarke,2.27,ELC,0.863,Rob Blake
 Zachary L'Heureux,1.22,ELC,0.863,David Poile
-Zack Bolduc,1.94,ELC,0.863,Doug Armstrong
+Zachary Bolduc,1.94,ELC,0.863,Doug Armstrong
 William Eklund,2.78,ELC,0.863,Doug Wilson
 Denver Barkey,0.53,ELC,0.863,Daniel Briere
 Cole O'Hara,0.00,ELC,0.860,Barry Trotz
@@ -660,7 +660,7 @@ Dominic Toninato,3.87,STD,0.850,Kyle Davidson
 A.J. Greer,4.99,STD,0.850,Bill Zito
 Philippe Myers,12.13,STD,0.850,Brad Treliving
 Olen Zellweger,1.94,ELC,0.844,Bob Murray
-Elias Pettersson,1.14,ELC,0.838,Patrik Allvin
+Elias Pettersson (D),1.14,ELC,0.838,Patrik Allvin
 Tyson Hinds,0.08,ELC,0.829,Pat Verbeek
 Ryan Winterton,1.02,ELC,0.828,Ron Francis
 Jordan Harris,4.61,STD,0.825,Don Sweeney
@@ -684,13 +684,13 @@ Yan Kuznetsov,0.74,STD,0.813,Craig Conroy
 Cole Reinhardt,1.05,STD,0.813,Kelly McCrimmon
 Tim Washe,0.45,STD,0.813,Pat Verbeek
 Michael Pezzetta,3.82,STD,0.813,Brad Treliving
-Adam Sýkora,0.11,ELC,0.807,Chris Drury
+Adam Sykora,0.11,ELC,0.807,Chris Drury
 Samuel Helenius,1.29,ELC,0.806,Rob Blake
 Nick DeSimone,3.17,STD,0.800,Bill Armstrong
 Ville Heinola,2.33,STD,0.800,Kevin Cheveldayoff
 Mitchell Chaffee,1.94,STD,0.800,Julien BriseBois
 Matthew Kessel,2.06,STD,0.800,Doug Armstrong
-Emil Lilleberg,2.11,STD,0.800,Julien BriseBois
+Emil Martinsen Lilleberg,2.11,STD,0.800,Julien BriseBois
 Marcus Johansson,40.60,STD,0.800,Bill Guerin
 Dylan McIlrath,7.29,STD,0.800,Chris Patrick
 Brendan Smith,32.65,STD,0.800,Don Waddell
